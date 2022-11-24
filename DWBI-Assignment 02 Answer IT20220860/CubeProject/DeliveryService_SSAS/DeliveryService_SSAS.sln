@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DeliveryService_SSAS", "DeliveryService_SSAS\DeliveryService_SSAS.dwproj", "{6B83A848-3D42-49CE-902F-09B6F88CA267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B83A848-3D42-49CE-902F-09B6F88CA267}.Development|Default.ActiveCfg = Development
+		{6B83A848-3D42-49CE-902F-09B6F88CA267}.Development|Default.Build.0 = Development
+		{6B83A848-3D42-49CE-902F-09B6F88CA267}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F41269-0C53-44B4-8F9E-0FCB281EA26E}
+	EndGlobalSection
+EndGlobal
